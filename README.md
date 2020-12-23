@@ -1,2 +1,5 @@
-# portfolio
-A group of projects to go alongside my resume.
+# Justin Kahr
+
+### A portfolio of projects and code examples
+
+<justin@kahr.org>
