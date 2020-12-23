@@ -8,13 +8,13 @@ This program was originally written in a Jupyter notebook over multiple cells, s
 Below are some images of the visualization in several configurations.
 
 ![Screenshot1]
-(EVscreenshot1.png)
+(EVscreenshot1.png?raw=true)
 
 ![Screenshot2]
-(EVscreenshot2.png)
+(EVscreenshot2.png?raw=true)
 
 ![Screenshot3]
-(EVscreenshot3.png)
+(EVscreenshot3.png?raw=true)
 
 To run the project:
 
