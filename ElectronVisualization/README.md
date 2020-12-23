@@ -7,14 +7,11 @@ This program was originally written in a Jupyter notebook over multiple cells, s
 
 Below are some images of the visualization in several configurations.
 
-![Screenshot1]
-(EVscreenshot1.png?raw=true)
+![Screenshot1](https://github.com/KahrSoftware/portfolio/blob/main/ElectronVisualization/EVscreenshot1.png)
 
-![Screenshot2]
-(EVscreenshot2.png?raw=true)
+![Screenshot2](EVscreenshot2.png?raw=true)
 
-![Screenshot3]
-(EVscreenshot3.png?raw=true)
+![Screenshot3](EVscreenshot3.png?raw=true)
 
 To run the project:
 
