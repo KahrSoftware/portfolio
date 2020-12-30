@@ -2,6 +2,6 @@
 
 ### A portfolio of projects and code examples
 
-[Resume](kahrsoftware.com/resume)
+[Resume](https://www.kahrsoftware.com/resume)
 
 <justin@kahr.org>
